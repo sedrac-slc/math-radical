@@ -1,0 +1,4 @@
+com\ei\math\radical\Radical.class
+com\ei\math\radical\RadicalRegex.class
+com\ei\math\radical\RadicalConverter.class
+com\ei\math\radical\exception\RadicalRegexException.class
